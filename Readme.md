@@ -1,0 +1,1 @@
+This is an SVM(support Vector Machine) utilised machine learning prediction model. For further classification go through the code you will get to know
